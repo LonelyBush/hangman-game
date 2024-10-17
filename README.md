@@ -5,4 +5,4 @@ Design and overall functionality is my own implementation
 
 Used technologies: HTML, CSS, JavaScript
 
-Deploy: https://lonelybush.github.io/RSS_School_2023Q4_Projects/hangman-task/
+Deploy: https://lonelybush.github.io/hangman-game/hangman-task/
